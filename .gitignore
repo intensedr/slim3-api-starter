@@ -1,0 +1,6 @@
+composer
+vendor
+
+.env
+
+.lock
