@@ -1,6 +1,6 @@
 {
-    "name": "intensedr/slim3-starter",
-    "description": "A skeleton structure for Slim",
+    "name": "intensedr/slim3-api-starter",
+    "description": "A skeleton structure for api based on Slim",
     "keywords": ["framework", "slim"],
     "license": "MIT",
     "type": "project",
