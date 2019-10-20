@@ -17,6 +17,7 @@ return [
         'default' => [
             'adapter' => $config['driver'],
             'host' => $config['host'],
+            'port' => $config['port'],
             'name' => $config['database'],
             'user' => $config['username'],
             'pass' => $config['password']
